@@ -12,26 +12,15 @@ The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/cBMi4hG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/cBMi4hG.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Mismatches in walkthrough Xcode and the lastest version of Xcode made certain tasks a little confusing, but I think after some more time with Xcode and Swift, these hiccups should become less frequent.
 
 ## License
 
